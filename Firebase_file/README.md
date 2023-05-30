@@ -16,9 +16,9 @@
 -----------------------------------
 ### firebase 연동 reference
 [![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/217eb4b3-1262-421c-9ba0-109ef0e02f8f)](https://lakue.tistory.com/37)
-[![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/95f3540d-c388-4eae-8cb7-efc9cab7cb65)](https://angelplayer.tistory.com/263)<br>
+[![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/95f3540d-c388-4eae-8cb7-efc9cab7cb65)](https://angelplayer.tistory.com/263)
 [![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/a964d93c-51e3-4d3d-98b4-68197a28b345)](https://chobodogfootruler.tistory.com/30)
-[![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/6787fae9-5d85-4b4f-a065-b870945c1d29)](https://bellog.tistory.com/3)<br>
+[![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/6787fae9-5d85-4b4f-a065-b870945c1d29)](https://bellog.tistory.com/3)
 [![다운로드 (1)](https://github.com/minso00/android_project/assets/105704159/8f0c19d5-b448-4b03-9e72-b7efe7e22ba6)](https://velog.io/@dooooreeee/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SHA-1-%EC%95%84%EB%9D%BC%EB%B3%B4%EC%9E%90Tasks-%EC%95%88%EB%B3%B4%EC%9E%84-%ED%95%B4%EA%B2%B0)
 -----------------------------------
 
