@@ -1,0 +1,16 @@
+build.gradle(Project)에서 밑에 코드 때문에 에러가 남 (아마 settings.gradle이랑 repositories 내용이 겹쳐서 그런 거 같음)
+
+allprojects {
+
+    repositories {
+        // Make sure that you have the following two repositories
+        google()  // Google's Maven repository
+
+        mavenCentral()  // Maven Central repository
+
+    }
+}
+
+이 코드를 빼주면 작동됨
+(그럼 settings.gradle에 있는 repositories와 겹치는 내용을 삭제하고 Project에 이 코드를 넣어주면 그대로 작동할까?) 
+=> 마찬가지로 settings에서 겹치는 코드 내용을 삭제하고 Project에 코드를 넣어줬더니 실행된다. -> 결국 코드 내용이 겹쳐서 작동이 안 되는 거였음
