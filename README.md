@@ -7,6 +7,7 @@ Xml, Java 코드
 ------------------------
 ## 카카오 로그인 API
 <img width="1000" alt="image" src="https://github.com/minso00/android_project/assets/105704159/ef7a5c54-a489-48c8-9a0d-d2973050f1e4">
+
 * 카카오 developers에서 오픈 API를 이용 
 * API_file에 오픈 API 파일과 ppt를 넣어둠
 
