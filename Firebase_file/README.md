@@ -13,5 +13,11 @@
 7. 커뮤니티 및 지원: Firebase는 다양한 개발자 커뮤니티와 문서, 지원을 제공. 개발자들은 커뮤니티를 통해 지식과 경험을 공유하고 문제를 해결할 수 있으며, Firebase 팀의 지원을 받을 수도 있다.
 ## reference
 [![다운로드](https://github.com/minso00/android_project/assets/105704159/c5aaffeb-38a7-494a-b263-9e04aebd907b)](https://chat.openai.com/)
+### firebase 연동 reference
+https://velog.io/@dooooreeee/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SHA-1-%EC%95%84%EB%9D%BC%EB%B3%B4%EC%9E%90Tasks-%EC%95%88%EB%B3%B4%EC%9E%84-%ED%95%B4%EA%B2%B0
+https://lakue.tistory.com/37
+https://angelplayer.tistory.com/263
+https://chobodogfootruler.tistory.com/30
+https://bellog.tistory.com/3
 -----------------------------------
 
