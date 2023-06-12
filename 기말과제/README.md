@@ -32,4 +32,6 @@
 * https://cpcp127.tistory.com/21
 * https://fjdkslvn.tistory.com/5
 
-
+## 사용 언어 및 DB
+![firebase](https://github.com/minso00/android_project/assets/105704159/10a6d06a-2a0c-46af-8bff-2a5da127fe90)
+![javaimage](https://github.com/minso00/android_project/assets/105704159/0513de70-d731-4924-8b5f-d2a410879792)
